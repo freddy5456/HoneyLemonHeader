@@ -1,0 +1,13 @@
+body, html {
+margin: 0;
+padding: 0;
+}
+
+
+#videoCanvas {
+	padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
